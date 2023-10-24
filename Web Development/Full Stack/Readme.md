@@ -2,7 +2,7 @@
 
 ## Get started with frontend
 
-- [Check out the frontend development roadmap](https://github.com/WeMakeDevs/roadmaps/tree/main/Frontend-Development)
+- [Check out the frontend development roadmap](https://github.com/PrathameshTheurkar/Domain_Roadmap_Guide/tree/main/Web%20Development/Frontend)
 
 ## Get started with backend
 
